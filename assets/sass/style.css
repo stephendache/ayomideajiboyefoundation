@@ -1,7 +1,4 @@
 /*------------------------------------------------------------------
-[Master Stylesheet]
-Theme Name:     Helpass - Charity Nonprofit HTML5 Template
-Version:        1.0.0
 -------------------------------------------------------------------*/
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -423,7 +420,7 @@ img {
   width: 100%;
   height: 100%;
   border-radius: 40px;
-  background: #ec621a;
+  background: #FCD472;
   -webkit-transition: opacity 0.5s ease-out;
   transition: opacity 0.5s ease-out;
   opacity: 0;
@@ -568,7 +565,7 @@ img {
 }
 
 .view-cart-btn:hover {
-  background-color: #ec621a;
+  background-color: #FCD472;
 }
 
 .view-cart-btn.s1 {
